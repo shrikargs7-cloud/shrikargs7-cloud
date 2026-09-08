@@ -19,7 +19,7 @@ Full-Stack Developer • AI & Agentic AI Enthusiast • Computer Science Student
 
 ## 🚀 About Me
 
-- 🔭 Currently building **[OcuPulse](https://github.com/shrikargs7-cloud/Ocupulse)** — an intelligent retinal image analysis platform
+- 🔭 Currently building **[Custom agent]** — an intelligent retinal image analysis platform
 - 🌱 Currently learning **Agentic AI, Machine Learning, Deep Learning & Cloud**
 - 💻 Interested in **Full-Stack Development, AI Agents, Computer Vision & Systems**
 - 🧠 Practicing **Data Structures & Algorithms**
